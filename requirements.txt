@@ -9,3 +9,5 @@ torch
 torchvision
 albumentations
 streamlit-cropper
+joblib
+scikit-learn
