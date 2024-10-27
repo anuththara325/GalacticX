@@ -4,3 +4,7 @@ tensorflow==2.15.0
 python-dotenv==1.0.1
 google-generativeai==0.3.2
 matplotlib
+pillow
+torch
+torchvision
+albumentations
