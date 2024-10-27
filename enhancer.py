@@ -82,7 +82,7 @@ def image_enhancer():
     col1, col2, col3, col4 = st.columns(4)
 
     with col2:
-        with st.container(border=True, height=350):
+        with st.container(border=True, height=370):
             st.markdown(
                 """
             <div style="text-align: center; font-weight: bold;">
@@ -97,7 +97,7 @@ def image_enhancer():
             )
 
     with col3:
-        with st.container(border=True, height=350):
+        with st.container(border=True, height=370):
             st.markdown(
                 """
             <div style="text-align: center; font-weight: bold;">
